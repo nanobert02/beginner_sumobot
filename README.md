@@ -9,4 +9,4 @@ The project uses:
 - E18-D80NK Adjustable IR Infrared Proximity Sensor
 - 2200mAh 3.7V Lithium-Ion 18650 Battery
 
-Feel free to improve the code on your own. Happey learning!
+Feel free to improve the code on your own. Happy learning!
