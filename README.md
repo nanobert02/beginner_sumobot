@@ -1,4 +1,4 @@
-# beginner_sumobot
+# beginner_sumobot_without_library
 Very simple arduino code for sumobot without library
 
 The project uses:
